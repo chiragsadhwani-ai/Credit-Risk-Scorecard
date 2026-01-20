@@ -182,28 +182,6 @@ The complete workflow is implemented across **8 structured Jupyter notebooks**, 
 
 ---
 
-## 🎯 Intended Audience
-
-* Credit Risk Analyst (Fresher / Entry-level)
-* Risk Analytics Interns
-* Students' learning scorecard development
-
----
-
-## 🗣️ How to Explain This Project in Interviews
-
-> "I developed an end-to-end credit risk scorecard starting from raw data merging and vintage analysis, performed variable binning and WOE-IV based feature selection, built a logistic regression PD model, calibrated and scaled it into a scorecard, and validated it using AUC, KS, and calibration metrics."
-
----
-
-## 🚀 Future Enhancements
-
-* Roll-rate analysis
-* 30+/60+/90+ DPD tracking
-* Early Warning Indicators (EWS)
-* Population Stability Index (PSI)
-
----
 
 ## 📌 Author
 
